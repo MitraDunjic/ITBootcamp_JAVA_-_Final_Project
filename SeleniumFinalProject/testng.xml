@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+
+<suite name="Testing Knjizara Harfa" verbose="1" >
+    <test name="testUnsuccessfulRegistration"   >
+        <packages>
+            <package name="package SeleniumFinalProject.Tests;" />
+        </packages>
+    </test>
+</suite>
